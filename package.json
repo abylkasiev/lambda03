@@ -1,0 +1,24 @@
+{
+  "name": "lambda",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abylkasiev/LAMBDA.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/abylkasiev/LAMBDA/issues"
+  },
+  "homepage": "https://github.com/abylkasiev/LAMBDA#readme",
+  "dependencies": {
+    "bourbon": "^7.0.0",
+    "hamburgers": "^1.1.3"
+  }
+}
